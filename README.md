@@ -6,7 +6,7 @@
 
 React Redux Form is a collection of reducer creators and action creators that make implementing even the most complex and custom forms with React and Redux simple and performant.
 
-`npm install @ngbrown/react-redux-form@latest --save`
+`npm install @ngbrown/react-redux-form@">=1.16.11-patch.1 <2.0.0" --save`
 
 ## Installation
 
@@ -14,8 +14,8 @@ React Redux Form is a collection of reducer creators and action creators that ma
 # Dependencies (you probably already have these)
 npm install react react-dom redux react-redux --save
 
-# version 1.x.x
-npm install @ngbrown/react-redux-form@latest --save
+# version 1.x.x-patch.x
+npm install @ngbrown/react-redux-form@">=1.16.11-patch.1 <2.0.0" --save
 ```
 
 ## Zero-Boilerplate `<LocalForm>`

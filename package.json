@@ -1,6 +1,6 @@
 {
   "name": "@ngbrown/react-redux-form",
-  "version": "1.16.11",
+  "version": "1.16.11-patch.1",
   "description": "Create Forms Easily with React and Redux",
   "main": "lib/index.js",
   "typings": "react-redux-form.d.ts",
@@ -20,6 +20,7 @@
     "prepublishOnly": "npm test && npm run lint && npm run build && npm run tsdef",
     "postversion": "git push && git push --tags",
     "publish:beta": "npm publish --tag beta",
+    "publish:scoped": "npm publish --access public",
     "tsdef": "cp -f immutable.d.ts lib/",
     "docs:clean": "rimraf _book",
     "docs:prepare": "gitbook install",
