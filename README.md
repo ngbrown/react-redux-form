@@ -1,17 +1,12 @@
 # React Redux Form
 
-[![Join the chat at https://gitter.im/react-redux-form/Lobby](https://badges.gitter.im/react-redux-form/Lobby.svg)](https://gitter.im/react-redux-form/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/davidkpiano/react-redux-form.svg?branch=master)](https://travis-ci.org/davidkpiano/react-redux-form) 
-[![npm version](https://badge.fury.io/js/react-redux-form.svg)](https://badge.fury.io/js/react-redux-form)
-[![CDNJS](https://img.shields.io/cdnjs/v/react-redux-form.svg)](https://cdnjs.com/libraries/react-redux-form)
-
-### ⚠️ This project is in maintenance mode only. Please consider using [Formik](https://github.com/jaredpalmer/formik) instead.
+### ⚠️ This is a scoped publish branch.  See the [project home](https://github.com/davidkpiano/react-redux-form) to report issues.
 
 ## [Read the Documentation](https://davidkpiano.github.io/react-redux-form/docs.html)
 
 React Redux Form is a collection of reducer creators and action creators that make implementing even the most complex and custom forms with React and Redux simple and performant.
 
-`npm install react-redux-form@latest --save`
+`npm install @ngbrown/react-redux-form@latest --save`
 
 ## Installation
 
@@ -20,7 +15,7 @@ React Redux Form is a collection of reducer creators and action creators that ma
 npm install react react-dom redux react-redux --save
 
 # version 1.x.x
-npm install react-redux-form@latest --save
+npm install @ngbrown/react-redux-form@latest --save
 ```
 
 ## Zero-Boilerplate `<LocalForm>`

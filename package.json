@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-form",
+  "name": "@ngbrown/react-redux-form",
   "version": "1.16.11",
   "description": "Create Forms Easily with React and Redux",
   "main": "lib/index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidkpiano/react-redux-form.git"
+    "url": "git+https://github.com/ngbrown/react-redux-form.git"
   },
   "keywords": [
     "redux",
@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/davidkpiano/react-redux-form/issues"
   },
-  "homepage": "https://github.com/davidkpiano/react-redux-form#readme",
+  "homepage": "https://github.com/ngbrown/react-redux-form#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-core": "^6.5.2",
